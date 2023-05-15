@@ -1,10 +1,10 @@
-package com.spacewell.tenissdesign;
+package com.spacewell.tennisdesign;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TenissDesignApplicationTests {
+class TennisDesignApplicationTests {
 
     @Test
     void contextLoads() {

@@ -1,13 +1,13 @@
-package com.spacewell.tenissdesign;
+package com.spacewell.tennisdesign;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TenissDesignApplication {
+public class TennisDesignApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(TenissDesignApplication.class, args);
+        SpringApplication.run(TennisDesignApplication.class, args);
     }
 
 }
