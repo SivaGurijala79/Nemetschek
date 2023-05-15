@@ -16,4 +16,6 @@ This contains below end points
 
 @DeleteMapping("/close-match")
 
-You can run the application by running 
+You can run the application by running TennisDesignApplication file.
+
+Feel free to do mvn clean install before anything else
