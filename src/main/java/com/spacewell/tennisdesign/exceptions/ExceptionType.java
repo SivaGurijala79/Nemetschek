@@ -1,4 +1,4 @@
-package com.spacewell.tenissdesign.exceptions;
+package com.spacewell.tennisdesign.exceptions;
 
 public enum ExceptionType {
     MATCH_IN_PROGRESS,

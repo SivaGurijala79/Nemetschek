@@ -1,8 +1,8 @@
-package com.spacewell.tenissdesign.controller;
+package com.spacewell.tennisdesign.controller;
 
 
-import com.spacewell.tenissdesign.exceptions.ExceptionAdvice;
-import com.spacewell.tenissdesign.service.ScoringService;
+import com.spacewell.tennisdesign.exceptions.ExceptionAdvice;
+import com.spacewell.tennisdesign.service.ScoringService;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

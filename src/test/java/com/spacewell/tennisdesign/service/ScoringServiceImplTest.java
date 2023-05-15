@@ -1,7 +1,7 @@
-package com.spacewell.tenissdesign.service;
+package com.spacewell.tennisdesign.service;
 
-import com.spacewell.tenissdesign.exceptions.StartMatchException;
-import com.spacewell.tenissdesign.repo.PlayersDataRepo;
+import com.spacewell.tennisdesign.exceptions.StartMatchException;
+import com.spacewell.tennisdesign.repo.PlayersDataRepo;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -13,8 +13,8 @@ import org.springframework.test.util.ReflectionTestUtils;
 
 import java.util.ArrayList;
 
-import static com.spacewell.tenissdesign.utils.TestDataMother.sameNameTestTeams;
-import static com.spacewell.tenissdesign.utils.TestDataMother.testTeams;
+import static com.spacewell.tennisdesign.utils.TestDataMother.sameNameTestTeams;
+import static com.spacewell.tennisdesign.utils.TestDataMother.testTeams;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;
 import static org.mockito.ArgumentMatchers.anyList;

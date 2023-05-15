@@ -1,6 +1,6 @@
-package com.spacewell.tenissdesign.service;
+package com.spacewell.tennisdesign.service;
 
-import com.spacewell.tenissdesign.model.Team;
+import com.spacewell.tennisdesign.model.Team;
 
 import java.util.List;
 

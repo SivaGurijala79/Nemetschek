@@ -1,10 +1,10 @@
-package com.spacewell.tenissdesign.service;
+package com.spacewell.tennisdesign.service;
 
-import com.spacewell.tenissdesign.exceptions.ExceptionType;
-import com.spacewell.tenissdesign.exceptions.NoTeamFound;
-import com.spacewell.tenissdesign.exceptions.StartMatchException;
-import com.spacewell.tenissdesign.model.Team;
-import com.spacewell.tenissdesign.repo.PlayersDataRepo;
+import com.spacewell.tennisdesign.exceptions.ExceptionType;
+import com.spacewell.tennisdesign.exceptions.NoTeamFound;
+import com.spacewell.tennisdesign.exceptions.StartMatchException;
+import com.spacewell.tennisdesign.model.Team;
+import com.spacewell.tennisdesign.repo.PlayersDataRepo;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

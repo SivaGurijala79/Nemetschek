@@ -1,7 +1,7 @@
-package com.spacewell.tenissdesign.controller;
+package com.spacewell.tennisdesign.controller;
 
-import com.spacewell.tenissdesign.model.Team;
-import com.spacewell.tenissdesign.service.ScoringService;
+import com.spacewell.tennisdesign.model.Team;
+import com.spacewell.tennisdesign.service.ScoringService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

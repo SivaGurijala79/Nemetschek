@@ -1,6 +1,6 @@
-package com.spacewell.tenissdesign.utils;
+package com.spacewell.tennisdesign.utils;
 
-import com.spacewell.tenissdesign.model.Team;
+import com.spacewell.tennisdesign.model.Team;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,11 +1,11 @@
-package com.spacewell.tenissdesign.repo;
+package com.spacewell.tennisdesign.repo;
 
-import com.spacewell.tenissdesign.model.Team;
+import com.spacewell.tennisdesign.model.Team;
 import org.junit.Test;
 
 import java.util.Arrays;
 
-import static com.spacewell.tenissdesign.utils.TestDataMother.testTeams;
+import static com.spacewell.tennisdesign.utils.TestDataMother.testTeams;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 

@@ -1,4 +1,4 @@
-package com.spacewell.tenissdesign.exceptions;
+package com.spacewell.tennisdesign.exceptions;
 
 import lombok.Setter;
 

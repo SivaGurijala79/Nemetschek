@@ -1,4 +1,4 @@
-package com.spacewell.tenissdesign.model;
+package com.spacewell.tennisdesign.model;
 
 import lombok.*;
 
